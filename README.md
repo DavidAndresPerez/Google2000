@@ -1,5 +1,11 @@
 # Java Multi-threaded Web Indexer (Crawler Simulation)
 
+
+<p align="center">
+  <img src="img/arbolCarpetas.png" width="400" height="300">
+  <img src="img/ejecucion.png" width="400" height="300">
+</p>
+
 Este proyecto simula el comportamiento de un motor de búsqueda, procesando archivos HTML para extraer enlaces y clasificar palabras clave utilizando un sistema de indexación basado en **hashes MD5** y **programación multihilo**.
 
 
